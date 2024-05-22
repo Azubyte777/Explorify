@@ -29,6 +29,10 @@ A standard list of dependencies which can be installed using the following comma
 pip install -r requirements.txt
 ```
 
+### hook-sv_ttk.py
+
+[rdbende](https://github.com/rdbende)’s [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) for prettying up the GUI.
+
 ## Obtaining a Spotify API Developer key
 
 1. Go to https://developer.spotify.com/ and log into your Spotify account. Navigate to the `Dashboard`.
