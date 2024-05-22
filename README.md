@@ -1,5 +1,5 @@
 # Explorify
-This program generates personalized Spotify playlists based on songs the user has not listened to from a chosen artist. Explorify enhances the user's music discovery experience by recommending new tracks from their favorite artists that they may have missed. The two available generation options are Full - which creates a playlist of ALL songs by an artist that aren't in your collection and Capped - which does the same but limits it to the thirty most popular songs that aren't in your collection by that chosen artist.
+This program generates personalized Spotify playlists based on songs the user has not listened to from a chosen artist. Explorify enhances the user's music discovery experience by recommending new tracks from their favorite artists that they may have missed. The two available generation options are: * Full - which creates a playlist of ALL songs by an artist that aren't in your collection and * Capped - which does the same but limits it to the thirty most popular songs that aren't in your collection by that chosen artist.
 
 ## Files and Scripts
 
