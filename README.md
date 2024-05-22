@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Obtaining a Spotify API Developer key
 
 1. Go to https://developer.spotify.com/ and log into your Spotify account. Navigate to the `Dashboard`.
-2. Create an app and fill out the requisite information. While here, add `http://127.0.0.1:5000/redirect` to `Redirect URIs`.
+2. Create an app and fill out the requisite information. While here, add `https://example.org/callback` to `Redirect URIs`.
 3. Click `Save`, then click your newly created app and navigate to `Settings`.
 4. Copy-and-paste your `Client ID` and `Client secret` into your `.env` file (into `CLIENT_ID` and `CLIENT_SECRET` respectively).
 
